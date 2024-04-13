@@ -2,7 +2,7 @@
 
 Awesome Akash is a curated list of awesome resources people can use to familiarize themselves with [Akash](https://akash.network) and includes examples of several applications they can deploy on the platform. Please submit a pull request if you know any resources that might be helpful to other developers.
 
-Instructions on how to deploy the SDL files in this repository can be found [here](//docs.akash.network/guides/deploy).
+Instructions on how to deploy the SDL files in this repository can be found [here](//https://akash.network/docs/deployments/overview/).
 
 Join our [Discord](https://discord.akash.network) if you have questions or concerns. Our team is always eager to hear from you.
 Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop with updates and announcements.
@@ -10,7 +10,8 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 ## Table of Contents <!-- omit in toc -->
 
 - [Official](#official)
-- [AI](#ai)
+- [AI - CPU](#ai---cpu)
+- [AI - GPU](#ai---gpu)
 - [Blogging](#blogging)
 - [Built with Cosmos-SDK](#built-with-cosmos-sdk)
 - [Chat](#chat)
@@ -27,7 +28,8 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 - [Hosting](#hosting)
 - [Media](#media)
 - [Search Engines](#search-engines)
-- [Mining](#mining)
+- [Mining - CPU](#mining---cpu)
+- [Mining - GPU](#mining---gpu)
 - [Mining Pools](#mining-pools)
 - [Peer-to-peer File Sharing](#peer-to-peer-file-sharing)
 - [Project Management](#project-management)
@@ -68,11 +70,13 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 - [BERT Sentiment Analysis](bert-sentiment-analysis)
 - [ChatGLM-6B](ChatGLM-6B)
 - [ChatGPT Self-Hosted Chat](ai-chat-app)
+- [ComfyUI](comfyui)
 - [Dolly-v2-12b](dolly-v2-12b)
 - [Falcon-7B](Falcon-7B)
 - [FastChat](FastChat)
 - [Flan-T5 XXL](flan-t5-xxl)
 - [GPT-Neo](gpt-neo)
+- [Grok](grok)
 - [Llama-2-70B](Llama-2-70B)
 - [RedPajama-INCITE-7B-Instruct](redpajama-incite-7b-instruct)
 - [Semantra](semantra)
@@ -83,6 +87,7 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 - [Text generation WebUi](text-generation-webui)
 - [TTS](TTS)
 - [XLM-roBERTa](XLM-roBERTa)
+- [Open GPT](open-gpt)
 
 ### Blogging
 
@@ -93,6 +98,7 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 - [Confluence](confluence)
 - [Drupal](drupal)
 - [Wiki.js](wikijs)
+- [Nitropage](nitropage)
 
 ### Built with Cosmos-SDK
 
@@ -105,7 +111,9 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 
 ### Machine Learning
 
+- [Ray Cluster](ray)
 - [Jupyter Notebook](jupyter)
+- [Jupyter Notebook with ezkl](tensorflow-jupyter-ezkl)
 - [Jupyter Notebook with Python Kernel](tensorflow-jupyter-mnist)
 - [TensorFlow Serving MNIST CNN Model](tensorflow-serving-mnist)
 - [Handwritten Digits Recognition Application](tensorflow-webapp-mnist)
@@ -117,10 +125,12 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 - [Bitbucket](bitbucket)
 - [Azure Devops Agent](azure-devops-agent)
 - [Github Runner](ghrunner)
+- [Radicle](radicle)
 
 ### Data Visualization
 
-- [UFO Sightings](ufo-data-vis)
+-  [Redash Data Charts for Akash Analytics](Redash)
+-  [UFO Sightings](ufo-data-vis)
 
 ### Databases and Administration
 
@@ -133,6 +143,7 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 - [CouchDB](couchdb)
 - [InfluxDB](influxdb)
 - [SurrealDB](SurrealDB)
+- [DefraDB](defradb)
 
 ### DeFi
 
@@ -185,6 +196,7 @@ Awesome DeFi apps you can deploy on Akash
 - [Handshake](handshake)
 - [Fuse Network Node](fuse-network-node)
 - [Injective](injective)
+- [Starknet Node by Juno](juno)
 
 ### Business
 
@@ -238,7 +250,6 @@ Awesome DeFi apps you can deploy on Akash
 - [Iron Fish](iron-fish)
 - [MoneroOcean CPU with XMR payout](moneroocean)
 - [PacketStream](packetstream)
-- [Peer2Profit](peer2profit)
 - [pkt.cash](pkt-miner)
 - [RainbowMiner CPU](rainbowminer)
 - [Raptoreum](raptoreum-miner)
@@ -316,6 +327,7 @@ Awesome DeFi apps you can deploy on Akash
 
 - [SoftEther VPN](softether-vpn)
 - [Sentinel dVPN node](Sentinel-dVPN-node)
+- [Tor Proxy](tor-proxy)
 
 ### Databases
 
