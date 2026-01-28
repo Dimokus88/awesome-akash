@@ -1,4 +1,4 @@
-# 🦞 Clawdbot — Personal AI Assistant
+# 🦞 Moltbot — Personal AI Assistant
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/clawdbot/clawdbot/main/docs/whatsapp-clawd.jpg" alt="Clawdbot" width="400">
